@@ -333,7 +333,7 @@ ydd = `Hallo Aku haikal`
 for (let i = 0; i < jumlah; i++) {
 var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "pollCreationMessage": {
-"name": "HALO 👋 SAYA BOT 𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀",
+"name": "HALO 👋 SAYA BOT 𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀",
 "options": [
 {
 "optionName": "KATANYA WA KEBAL"
@@ -4185,14 +4185,14 @@ break*/
 case 'menu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `
-◎ 𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀
+◎ 𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀
 ◎ 𝐋𝐢𝐛 : 𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞
 ╔════[ AUTO ]══════⊱
 ╠➤ 𝐀𝐮𝐭𝐨𝐤𝐞𝐭𝐢𝐤 𝐨𝐧 / 𝐨𝐟𝐟
 ╠➤ 𝐀𝐮𝐭𝐨𝐯𝐧 𝐎𝐧 / 𝐎𝐟𝐟
 ╠➤ 𝐀𝐮𝐭𝐨𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 / 𝐨𝐟𝐟
 ╠➤ 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐨𝐧 / 𝐨𝐟𝐟 [ Crash ]
-╚════[ 𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ╔══[ MENU ]══════⊱
 ╠➤ 𝐁𝐮𝐠𝐦𝐞𝐧𝐮
@@ -4212,10 +4212,10 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤ 𝐆𝐫𝐨𝐮𝐩𝐦𝐞𝐧𝐮
 ╠➤ 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐦𝐞𝐧𝐮
 ╠➤ 𝐎𝐰𝐧𝐞𝐫𝐦𝐞𝐧𝐮
-╚════[ 𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`, contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
+©𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀`, contextInfo:{"externalAdReply": {"title": `𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCUK00KNYiidAv6w8-SGZghA`,
@@ -4229,7 +4229,7 @@ case 'bugmenu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} 👋 Selamat ${salam}
 
-◎ 𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀
+◎ 𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀
 ◎ 𝐋𝐢𝐛 : 𝐌𝐮𝐥𝐭𝐢-𝐃𝐞𝐯𝐢𝐜𝐞
 ◎ 𝐓𝐞𝐫𝐛𝐢𝐭 : *𝟎𝟏-𝟎𝟗-𝟏𝟗𝟗𝟗*
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4238,7 +4238,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╔════[ 𝐕𝐈𝐏 ]═══════⊱
 ╠➤𝐋𝐢𝐱𝐱𝐳𝐲☆ [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤🔥 𝟔𝟐𝟖𝐱𝐱𝐱|𝟓|𝟓
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔════[ 𝐁𝐔𝐆 𝐒𝐏𝐄𝐂𝐈𝐀𝐋 ]══════⊱
@@ -4248,14 +4248,14 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐥𝐢𝐱𝐳𝐲𝐚𝐧𝐠𝐞 [ 𝐇𝐚𝐫𝐮𝐬 𝐌𝐞𝐧𝐣𝐚𝐝𝐢 𝐀𝐝𝐦𝐢𝐧 ]
 ╠➤𝐛𝐮𝐠𝐭𝐢𝐤𝐭𝐨𝐤 [ 𝐋𝐢𝐧𝐤 ] - 𝐁𝐮𝐠 𝐒𝐰
 ╠➤𝐣𝐚𝐝𝐢𝐤𝐚𝐭𝐚𝐥𝐨𝐠 [ 𝐫𝐞𝐩𝐥𝐲 𝐬𝐭𝐢𝐜𝐤𝐞𝐫 ] 𝐣𝐮𝐦𝐥𝐚𝐡
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐓𝐀𝐑𝐆𝐄𝐓 ]══════⊱
 ╠➤𝐥𝐢𝐱𝐳𝐲𝐬𝐤𝐮𝐲 𝟔𝟐𝟖𝐱𝐱𝐱
 ╠➤𝐥𝐢𝐱𝐳𝐲𝐬𝐚𝐧𝐭𝐞𝐭 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠𝐩𝐜 𝟔𝟐𝟖𝐱𝐱𝐱@𝐬.𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩.𝐧𝐞𝐭|𝟏𝟎|𝟏𝟎𝐬
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 𝐊𝐞𝐭𝐢𝐤 > 𝐦.𝐜𝐡𝐚𝐭 ( 𝐝𝐢 𝐠𝐫𝐨𝐮𝐩 𝐝𝐮𝐥𝐮🌷)
@@ -4263,7 +4263,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐠𝐚𝐬𝐥𝐢𝐱𝐳𝐲 𝟏𝟏𝟐𝟔𝟕𝟒𝟒𝟒𝟖𝐱𝐱𝐱
 ╠➤𝐥𝐢𝐱𝐳𝐲𝐬𝐚𝐧𝐭𝐞𝐭𝐠𝐜  𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
 ╠➤𝐜𝐚𝐭𝐚𝐥𝐨𝐠𝐠𝐜 𝟏𝟐𝟑𝟕𝟖𝟗𝟏𝐱𝐱𝐱𝐱@𝐠.𝐮𝐬|𝟏𝟎|𝟏𝟎𝐬
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐕𝐈𝐑𝐓𝐄𝐗𝐓 ]══════⊱
@@ -4277,7 +4277,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐥𝐢𝐱𝐳𝐲𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟖 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐥𝐢𝐱𝐳𝐲𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟗 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐥𝐢𝐱𝐳𝐲𝐯𝐢𝐫𝐭𝐞𝐱𝐭𝟏𝟎 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐒𝐏𝐀𝐌 ]══════⊱
@@ -4369,7 +4369,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐥𝐢𝐱𝐳𝐲𝟏𝟏 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐥𝐢𝐱𝐳𝐲𝟏𝟐 [ 𝐣𝐮𝐦𝐥𝐚𝐡 ]
 ╠➤𝐬𝐩𝐚𝐦 [ 𝐑𝐞𝐩𝐥𝐲 𝐏𝐞𝐬𝐚𝐧 ]
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐉𝐀𝐃𝐈 𝐁𝐔𝐆 ]══════⊱
@@ -4378,7 +4378,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟑 [ 𝐑𝐞𝐩𝐥𝐲 𝐀𝐮𝐝𝐢𝐨 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐕𝐧 ]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟒 [ 𝐑𝐞𝐩𝐥𝐲 𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐆𝐚𝐦𝐛𝐚𝐫 ]
 ╠➤𝐣𝐚𝐝𝐢𝐛𝐮𝐠𝟓 [ 𝐑𝐞𝐩𝐥𝐲 𝐆𝐚𝐦𝐛𝐚𝐫 𝐉𝐚𝐝𝐢 𝐁𝐮𝐠 𝐎𝐧𝐜𝐞 ] 
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 ╔══════[ 𝐁𝐔𝐆 𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓 ]══════⊱
@@ -4386,8 +4386,8 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╠➤𝐛𝐮𝐠𝐛𝐜𝐯𝐢𝐝𝐞𝐨 [ 𝐁𝐮𝐠 𝐕𝐢𝐝𝐞𝐨 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬 ]
 ╠➤𝐛𝐮𝐠𝐛𝐜 𝐚𝐮𝐝𝐢𝐨 [ 𝐁𝐮𝐠 𝐀𝐮𝐝𝐢𝐨 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 ]
 ╠➤𝐛𝐮𝐠𝐛𝐜𝐭𝐞𝐱𝐭 [ 𝐁𝐮𝐠 𝐓𝐞𝐱𝐭 𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 ]
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
-contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
+contextInfo:{"externalAdReply": {"title": `𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCUK00KNYiidAv6w8-SGZghA`,
@@ -4406,7 +4406,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - © 𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀 -
+"description": ` - © 𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀 -
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
@@ -4419,8 +4419,8 @@ SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© 𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀 WE ARE NOT MASTOD`,
-"url": "Wa.me/6285714170944"
+"retailerId": `© 𝐆𝐈𝐋𝐙𝐙𝐘 𝐌𝚫𝐊𝚵𝐑 䄀 WE ARE NOT MASTOD`,
+"url": "Wa.me/6285730794089"
 },
 "businessOwnerJid": "6285714170944@s.whatsapp.net",
 }
@@ -4445,7 +4445,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤cantik
 ╠➤kesel
 ╠➤ngeselin
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4481,7 +4481,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤heleh
 ╠➤holoh
 ╠➤delttt]
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4526,7 +4526,7 @@ nomorhoki
 ╠➤masasubur
 ╠➤zodiak
 ╠➤shio
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4545,7 +4545,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤alquran
 ╠➤juzamma
 ╠➤tafsirsurah
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4575,7 +4575,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤antara-news
 ╠➤cnn-news
 ╠➤fajar-news
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱ `,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱ `,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4613,7 +4613,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤getpic
 ╠➤penjara
 ╠➤intro
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4639,7 +4639,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤robot
 ╠➤slow
 ╠➤tupai
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4675,7 +4675,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤wikimedia [query]
 ╠➤ringtone [query]
 ╠➤searchgroups [query]
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4708,7 +4708,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤styletext
 ╠➤smeme
 ╠➤ss [url]
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4727,7 +4727,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤listcmd
 ╠➤delcmd
 ╠➤lockcmd
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4778,7 +4778,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤listgc
 ╠➤listonline
 ╠➤speedtest
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -4828,7 +4828,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤darkjoke
 ╠➤meme
 ╠➤meme2
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -5005,7 +5005,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ╠➤lixzysound159
 ╠➤lixzysound160
 ╠➤lixzysound161
-╚════[ 𝐋𝐢𝐱𝐱𝐳𝐲䄀 ]══════⊱`,
+╚════[ 𝐆𝐈𝐋𝐙𝐙𝐘䄀 ]══════⊱`,
 contextInfo:{"externalAdReply": {"title": `𝑳𝑰𝑿𝑿𝒁𝒀 𝐌𝚫𝐊𝚵𝐑 䄀`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
